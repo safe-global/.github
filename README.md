@@ -20,6 +20,9 @@ This repository holds the files that apply to every repository in the organizati
 | File | Purpose |
 | --- | --- |
 | [`SECURITY.md`](SECURITY.md) | Default security policy: how to report a vulnerability and what to expect. |
+| [`CONTRIBUTING.md`](CONTRIBUTING.md) | Default contribution guide: what we accept, licensing, and how to open a pull request. |
+| [`SUPPORT.md`](SUPPORT.md) | Where to take questions, bug reports, and feature requests. |
+| [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | The Contributor Covenant, version 2.1. |
 
 ## Reporting a Security Issue
 
