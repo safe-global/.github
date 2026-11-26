@@ -1,5 +1,8 @@
 config:
   # Prose is written one paragraph per line.
   MD013: false
+  # The README opens with a centered logo.
+  MD033: false
+  MD041: false
 globs:
   - "**/*.md"
