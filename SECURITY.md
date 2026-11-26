@@ -35,4 +35,4 @@ Security fixes are provided for the latest release and the default branch of eac
 
 ## Bug Bounty
 
-Safe runs a bug bounty program. See https://docs.safe.global/advanced/smart-account-bug-bounty for its scope, rewards and rules.
+Safe runs a bug bounty program. See <https://docs.safe.global/advanced/smart-account-bug-bounty> for its scope, rewards and rules.
