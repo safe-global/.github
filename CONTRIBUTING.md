@@ -31,7 +31,7 @@ Each repository states its license in its `LICENSE` file, and in a `NOTICE` file
 
 By submitting a pull request, you agree that your contribution is licensed under the license in that repository's `LICENSE` file as it stands when your pull request is merged. If the repository has no license file, ask in an issue before you contribute. Only submit work that you have the right to submit, including code written with AI tools or copied from elsewhere.
 
-Where a repository requires the Safe Labs Contributor License Agreement (CLA), a check on your pull request asks you to sign it. You sign by posting a comment on the pull request. Your GitHub username and signature are stored in a public repository. Read the agreement before you sign. If its link does not load, do not sign, and tell us in the pull request. Your pull request cannot be merged until you have signed.
+Where a repository requires a Contributor License Agreement (CLA), a check on your pull request asks you to sign it. You sign by posting a comment on the pull request. Your GitHub username and signature are stored in a public repository. Read the agreement before you sign. If its link does not load, do not sign, and tell us in the pull request. Your pull request cannot be merged until you have signed.
 
 ## Making a Change
 
