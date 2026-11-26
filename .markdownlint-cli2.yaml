@@ -1,0 +1,5 @@
+config:
+  # Prose is written one paragraph per line.
+  MD013: false
+globs:
+  - "**/*.md"
